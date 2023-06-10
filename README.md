@@ -13,7 +13,7 @@ To run CureChat App locally on your machine, please follow these instructions:
 
 Clone the repository from GitHub:
 
-    git clone https://github.com/your-username/curechat-app.git
+    git clone https://github.com/guizo792/curechat-app.git
 Install the required dependencies:
 #### Frontend :
     cd curechat/frontend
