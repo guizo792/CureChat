@@ -1,9 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 # CureChat App
 Welcome to CureChat App, a health assistance application that allows users to chat with a chatbot, make video calls, and have interactive conversations within a messaging space. This README file will provide you with an overview of the app's features, installation instructions, and other important details.
 
